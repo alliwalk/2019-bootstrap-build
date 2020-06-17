@@ -1,0 +1,25 @@
+<div class="container misc" id="misc">
+          <!-- Portfolio Section -->
+          <div class="row">
+              <div class="col-lg-12">
+                  <h3 class="page-header">CSS Experiments</h3>
+                  <p style="font-size: 1.3em">Not every UX professional needs to know how to code. I do because I enjoy the challenge.</p>
+              </div>
+              <div class="col-md-7 col-sm-9">
+                <!-- / Please don't judge me!! -->
+                <ul style="font-size: 1.2em; line-height: 1.5">
+                  <li><a href="http://www.alliwalk.com/sites/logicalfallacies/">Master List of Logical Fallacies</a>
+                    <p>A CSS adventure in web type and design. Hard to believe it's the same content.</p></li>
+
+                  <li><a href="http://www.alliwalk.com/sites/etsySample/">Sample Etsy Page</a> <p>I saw a webpage and tried to recreate it. I ended up with a single page using 2 CSS frameworks, 960 and Bootstrap.</p>
+
+                  <li><a href="http://www.alliwalk.com/sites/animal-sounds/">Animal Sounds</a> <p>A fun experiment, with transitions, images, sounds and the HTML <code>audio</code> element.</p></li>
+
+                  <li><a href="http://www.alliwalk.com/sites/animated_svg/">Super Simple SVG Animation</a> <p>A test of sequencing and timing, inspired by CSS Tricks.</p></li>
+
+                  <li><a href="https://codepen.io/alliwalk/full/KLEOvR">Freecode Camp, Technical Documentation Page</a> <i class="fa fa-codepen"></i><p>One of my responsive web projects on Freecode Camp, using Grid.</p>
+                </ul>
+              <p style="font-size: 1.2em">Additional front-end experiments are on <a href="https://codepen.io/alliwalk/">codepen</a> and <a href="https://github.com/alliwalk">github</a>.</p>
+
+              </div>
+          </div>

@@ -1,0 +1,47 @@
+:root{
+	--default-grey: #f1f1f1;
+	--default-purple: #6c63ff;
+	--default-dark: #3f3d56;
+	--default-pink:#ff6584;
+	--lemon-glacier: #fbff12;
+	--turquoise: #41ead4; 
+	--light-cyan: #E3FBF6;
+	--mango-tango:#FA8334;
+}
+
+
+.shape 	{ fill: var(--light-cyan);}
+.circle { fill: var(--light-cyan);}
+.shadow { fill: var(--default-grey); }
+.paper	{ fill: var(--default-purple); }
+
+.text-lines,
+.paper-sheets {
+	fill: var(--default-purple); 
+}
+.top-lines{
+	fill: var(--default-purple); 
+	opacity: .5;
+}
+.center-lines{
+	fill: var(--default-purple); 
+}
+.default-dark{
+	fill: var(--default-dark);
+}
+.top-sheets{
+	fill: var(--default-pink);
+}
+.arrow-stroke{
+	fill: none; 
+	stroke: var(--default-dark);
+	stroke-miterlimit: 10px; 
+	stroke-width: 2px;
+}
+.arrow-fill { fill: var(--default-dark); }
+
+.wordpress{
+	width: 40%;
+	margin: 2.2em auto 0em;
+}
+
